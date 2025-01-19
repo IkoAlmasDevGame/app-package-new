@@ -1,0 +1,88 @@
+@charset "UTF-8";
+/*
+ * Bootstrap v.5.2.3 by Iko Almas Qistan 
+ * Copyright 2011-2022 The Bootstrap Authors
+ * Copyright 2011-2022 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ */
+
+.text-def {
+    font-size: 16px;
+    font-weight: normal;
+    font-family: system-ui, -apple-system, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, 'Times New Roman', monospace, 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+    font-style: normal;
+    color: inherit;
+    text-decoration: none;
+}
+
+.text-small {
+    font-size: xx-small;
+    font-weight: normal;
+    font-family: system-ui, -apple-system, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, 'Times New Roman', monospace, 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+    font-style: normal;
+    color: inherit;
+    text-decoration: none;
+}
+
+.text-small-2 {
+    font-size: x-small;
+    font-weight: normal;
+    font-family: system-ui, -apple-system, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, 'Times New Roman', monospace, 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+    font-style: normal;
+    color: inherit;
+    text-decoration: none;
+}
+
+.text-small-3 {
+    font-size: small;
+    font-weight: normal;
+    font-family: system-ui, -apple-system, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, 'Times New Roman', monospace, 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+    font-style: normal;
+    color: inherit;
+    text-decoration: none;
+}
+
+.text-medium {
+    font-size: medium;
+    font-weight: normal;
+    font-family: system-ui, -apple-system, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, 'Times New Roman', monospace, 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+    font-style: normal;
+    color: inherit;
+    text-decoration: none;
+}
+
+.text-large {
+    font-size: large;
+    font-weight: normal;
+    font-family: system-ui, -apple-system, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, 'Times New Roman', monospace, 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+    font-style: normal;
+    color: inherit;
+    text-decoration: none;
+}
+
+.text-large-2 {
+    font-size: x-large;
+    font-weight: normal;
+    font-family: system-ui, -apple-system, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, 'Times New Roman', monospace, 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+    font-style: normal;
+    color: inherit;
+    text-decoration: none;
+}
+
+.text-large-3 {
+    font-size: xx-large;
+    font-weight: normal;
+    font-family: system-ui, -apple-system, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, 'Times New Roman', monospace, 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+    font-style: normal;
+    color: inherit;
+    text-decoration: none;
+}
+
+.text-larger {
+    font-size: larger;
+    font-weight: normal;
+    font-family: system-ui, -apple-system, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif, 'Times New Roman', monospace, 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+    font-style: normal;
+    color: inherit;
+    text-decoration: none;
+}

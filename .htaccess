@@ -1,0 +1,15 @@
+<IfModule mod_rewrite.c>
+  AddHandler application/x-httpd-ea-php80 .php .php8  
+  RewriteEngine On
+  Options -Indexes 
+  RewriteBase /
+  RewriteCond %{REQUEST_FILENAME}.php -f
+  RewriteCond %{REQUEST_FILENAME}.css -f
+  RewriteCond %{REQUEST_FILENAME} !-d
+
+  # Akses Halaman
+  RewriteRule ^(.*)/$ $1.php
+  RewriteRule ^ui/header.php header.php?page=$1 [L]
+  # Aksi Akses
+  RewriteRule ^ui/header.php header.php?aksi=$1 [L]
+</IfModule>
