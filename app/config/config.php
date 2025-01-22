@@ -3,8 +3,7 @@
 function base_url($link)
 {
     $base = ""; # masukkan folder yang dibuat untuk mengambil data file yang di butuhkan nantinya.
-    $url = $_SERVER['REQUEST_URI'];
-    $url .= "http://localhost/$base/" . trim($link, "/");
+    $url = "http://localhost/". $base ."/" . $link;
     return $url;
 }
 # code Library Salam
